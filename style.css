@@ -1,6 +1,6 @@
 body {
     background-color: rgb(22, 168, 204);
-    font-family: "Courier New", monospace;
+    font-family: "Courier New", monospace, 'Times New Roman';
   }
   h1, p, li {
     color: rgb(255, 255, 255);
