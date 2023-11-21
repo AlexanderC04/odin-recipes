@@ -1,28 +1,39 @@
 body {
-    background-color: rgb(22, 168, 204);
-    font-family: "Courier New", monospace, 'Times New Roman';
-  }
-  h1, p, li {
-    color: rgb(255, 255, 255);
-  }
-  
-  h2 {
-    color: rgb(1, 33, 56);
-    font-size: 28px;
-  }
-  h3 {
-    color: rgb(9, 26, 39);
-  }
+  background-color: rgb(22, 168, 204);
+  font-family: "Courier New", monospace, "Times New Roman";
+  padding: 5%;
+}
+h1,
+p,
+li {
+  color: rgb(255, 255, 255);
+}
 
-  img {
-    height: auto;
-    width: 800px;
-  }
-  p, li {font-size: 18px;}
-  a {
-    font-size: 20px;
-    font-weight: bold;
-    font-family: "Times New Roman", Times, serif;
-    color: rgb(1, 25, 73);
-  }
-  
+.title {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(1, 33, 56);
+  font-size: 28px;
+}
+h3 {
+  color: rgb(9, 26, 39);
+}
+
+img {
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  width: 800px;
+}
+p,
+li {
+  font-size: 18px;
+}
+a {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(7, 27, 66);
+}
